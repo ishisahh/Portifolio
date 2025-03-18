@@ -1,0 +1,27 @@
+body
+{
+   background-color: #101E52;
+   text-align: center;
+   color: aliceblue;
+}
+#Introducao
+{
+    font-size: large;
+    font-family: Verdana;
+
+}
+
+.Titulo
+{
+    font-size: large;
+    font-family: Verdana;
+    
+}
+
+img
+{
+    border-radius: 10px;
+    text-align: justify;
+    height: fit-content;
+    width: fit-content;
+}    
